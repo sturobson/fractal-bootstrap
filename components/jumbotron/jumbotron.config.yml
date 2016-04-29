@@ -1,0 +1,6 @@
+title: Jumbotron Example
+context:
+  Jumbotron-Title: Hello, world!
+  Jumbotron-Text: This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.
+  Jumbotron-Link-Url: http://www.micah.codes
+  Jumbotron-Link-Text: Learn More
